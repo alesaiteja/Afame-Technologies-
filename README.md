@@ -10,9 +10,8 @@ This project will require you to delve into a sizable sales dataset in order to 
 This assignment demonstrates your capacity to work with and extract knowledge from huge datasets, empowering you to provide data-driven suggestions for improving sales tactics.
 
 # HR DATA ANALYSIS
-1.Data cleansing involves removing unnecessary columns
-
-2.Giving the columns new names
+1. Data cleansing involves removing unnecessary columns
+2. Giving the columns new names
 
 3.Eliminating redundant entries
 
