@@ -11,7 +11,9 @@ This assignment demonstrates your capacity to work with and extract knowledge fr
 
 # HR DATA ANALYSIS
 1.Data cleansing involves removing unnecessary columns
+
 2.Giving the columns new names
+
 3.Eliminating redundant entries
 4.sanitizing specific columns
 5.Eliminate the dataset's NaN values
